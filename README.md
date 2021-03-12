@@ -9,3 +9,7 @@ C://TEST 경로를 입력 하게 된다면
  1. HWP 2018을 기준으로 제작 하였습니다.
  
  2. HWP에서 다른이름 형식으로 저장 -> 설정 -> 초고화질 체크 를 하셔야 선명한 사진이 나옵니다.
+
+ 3.(필수) 한글 보안 모듈 설치 후 레지스터리 등록 https://www.hancom.com/board/devdataView.do?board_seq=47&artcl_seq=4084&pageInfo.page=&search_text=
+ 
+ 
