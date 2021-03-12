@@ -12,7 +12,7 @@ C://TEST 경로를 입력 하게 된다면
 
  (필수) 한글 보안 모듈 설치 후 레지스터리 등록
 
- (필수) Pdf2Image 설치 
+ (선택) Pdf2Image 설치 (HWP->PDF) 
 
 
  https://www.hancom.com/board/devdataView.do?board_seq=47&artcl_seq=4084&pageInfo.page=&search_text= 
