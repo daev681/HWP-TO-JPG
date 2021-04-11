@@ -1,4 +1,4 @@
-# HWP_TO_JPG
+# JPH-TO-HWP
 HWP를 JPG로 변환해주는 프로그램입니다
 
 
